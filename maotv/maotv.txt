@@ -4,7 +4,7 @@
 		"key": "腾讯",
 		"name": "腾讯",
 		"type": 0,
-		"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qq/at/xml/",
+		"api": "http://www.zycaiji.net:7788/api.php/provide/vod/from/qq/at/xml/",
 		"playUrl": "",
 		"categories": []
 	},
@@ -12,7 +12,7 @@
 		"key": "优酷",
 		"name": "优酷",
 		"type": 0,
-		"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml/",
+		"api": "http://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
 		"playUrl": "",
 		"categories": []
 	},
@@ -20,7 +20,7 @@
 		"key": "爱奇艺",
 		"name": "爱奇艺",
 		"type": 0,
-		"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml/",
+		"api": "http://www.zycaiji.net:7788/api.php/provide/vod/from/qiyi/at/xml/",
 		"playUrl": "",
 		"categories": []
 	},
@@ -28,7 +28,7 @@
 		"key": "芒果",
 		"name": "芒果",
 		"type": 0,
-		"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/mgtv/at/xml/",
+		"api": "http://www.zycaiji.net:7788/api.php/provide/vod/from/mgtv/at/xml/",
 		"playUrl": "",
 		"categories": []
 	},
