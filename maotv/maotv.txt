@@ -33,6 +33,30 @@
 		"categories": []
 	},
 	{
+		"key": "哔哩哔哩",
+		"name": "哔哩哔哩",
+		"type": 0,
+		"api": "http://m.ycccyk.cn/api.php/provide/vod/from/bilibili/at/xml/",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "360",
+		"name": "360",
+		"type": 0,
+		"api": "http://xa88.vip:88/api.php/provide/vod/",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "百度",
+		"name": "百度",
+		"type": 0,
+		"api": "https://api.bdjx.vip/api.php/provide/vod/",
+		"playUrl": "",
+		"categories": []
+	},
+	{
 		"key": "阿里影视",
 		"name": "阿里影视",
 		"type": 0,
