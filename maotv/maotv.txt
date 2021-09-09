@@ -4,37 +4,43 @@
 		"key": "腾讯",
 		"name": "腾讯",
 		"type": 0,
-		"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qq/at/xml/
-",
+		"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qq/at/xml/",
 		"playUrl": "",
 		"categories": []
 	},
     {
-		"key": "1717资源",
-		"name": "1717资源",
+		"key": "优酷",
+		"name": "优酷",
 		"type": 0,
-		"api": "http://zy.itono.cn/inc/api.php",
+		"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/youku/at/xml/",
 		"playUrl": "",
 		"categories": []
 	},
     {
-		"key": "1717资源",
-		"name": "1717资源",
+		"key": "爱奇艺",
+		"name": "爱奇艺",
 		"type": 0,
-		"api": "http://zy.itono.cn/inc/api.php",
+		"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qiyi/at/xml/",
 		"playUrl": "",
 		"categories": []
 	},
-    {
-		"key": "1717资源",
-		"name": "1717资源",
-		"type": 0,
-		"api": "http://zy.itono.cn/inc/api.php",
-		"playUrl": "",
-		"categories": []
-	},
-    
 	{
+		"key": "芒果",
+		"name": "芒果",
+		"type": 0,
+		"api": "http://zy.yilans.net:8090/api.php/provide/vod/from/mgtv/at/xml/",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "阿里影视",
+		"name": "阿里影视",
+		"type": 0,
+		"api": "http://www.feishi.ltd/api.php/provide/vod/at/xml/",
+		"playUrl": "",
+		"categories": []
+	},
+    {
 		"key": "1717资源",
 		"name": "1717资源",
 		"type": 0,
@@ -1548,9 +1554,21 @@
         }
     ],
   "parses": [
+        {
+		"name": "月亮解析",
+		"url": "http://api.yueliangjx.com/?url="
+	},
 	{
-		"name": "1717",
-		"url": "http://www.1717yun.com/jx/ty.php?url="
+		"name": "沐白",
+		"url": "https://www.miede.top/jiexi/?url="
+	},
+	{
+		"name": "m3u8TV",
+		"url": "https://jiexi.8old.cn/m3u8tv20210705%60/?url="
+	},
+	{
+		"name": "一个",
+		"url": "http://egwang186.gitee.io/?url="
 	},
 	{
 		"name": "OK",
